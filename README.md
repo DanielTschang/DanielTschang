@@ -15,6 +15,12 @@ I’m currently doing the military service🥲(Until 2023/03/03).
 🎈**Recently Studying**:  
 - Modern C++, Game Programming, Design Patterns, Cloud Programming
 
+🎧Develop Env:
+- Linux, MacOS, VScode, CLion, Lofi music🎵
+
+Contact:
+🍏Line: @daniel123355
+📫Email: danchang11.95@gmail.com
 <!--
 **DanielTschang/DanielTschang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
