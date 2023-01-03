@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-This is Daniel Tschang, a Programmer/Software Devloper/Web Developer
+This is Daniel Tschang, a Programmer/Software Devloper/Web Developer.
 
 💡**Skills**:   
-- **Web**: Typescript, Javascript, React.js, HTML5, CSS3, Node.js,  MySQL, Python etc.  
-- **Desktop**: C++.
+- **Web**: Typescript, Javascript, Python, React.js, Node.js,  MySQL.  
+- **Desktop**: C++, python.
 - **Mobile**: React Native.  
 
 
