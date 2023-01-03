@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 This is Daniel Tschang, a Programmer/Software Devloper/Web Developer.
+I’m currently doing the military service🥲(Until 2023/03/03). 
 
 💡**Skills**:   
 - **Web**: Typescript, Javascript, Python, React.js, Node.js,  MySQL.  
@@ -13,6 +14,7 @@ This is Daniel Tschang, a Programmer/Software Devloper/Web Developer.
 
 🎈**Recently Studying**:  
 - Modern C++, Game Programming, Design Patterns, Cloud Programming
+
 <!--
 **DanielTschang/DanielTschang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
