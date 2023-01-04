@@ -13,12 +13,12 @@ I’m currently doing the military service🥲(Until 2023/03/03).
 - 國語/Mandarin(native), English(Professional proficiency), Deutsche/German(basic conversation)
 
 🎈**Recently Studying**:  
-- Modern C++, Game Programming, Design Patterns, Cloud Programming
+- Game Programming, Cloud Programming, Design Patterns, System Design  
 
-🎧Develop Env:
+🎧**Develop Env**:
 - Linux, MacOS, VScode, CLion, Lofi music🎵
 
-💬Contact:
+💬**Contact**:
 - 🍏Line: @daniel123355
 - 📫Email: danchang11.95@gmail.com
 <!--
