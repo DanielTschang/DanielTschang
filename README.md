@@ -37,8 +37,10 @@ Here are some ideas to get you started:
 -->
 
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielTschang&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTschang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DanielTschang)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Daniel's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DanielTschang)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DanielTschang.DanielTschang&left_color=black&right_color=black)
