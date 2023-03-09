@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 This is Daniel Tschang, a Programmer/Software Devloper/Web Developer.
-I’m currently doing the military service🥲(Until 2023/03/03). 
 
 💡**Skills**:   
 - **Web**: Typescript, Javascript, Python, React.js, Node.js,  MySQL.  
